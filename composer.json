@@ -1,0 +1,16 @@
+{
+    "name": "liuzhengbin/aliyunoss",
+    "description": "阿里云OSS自定义封装",
+    "authors": [
+        {
+            "name": "liuzhengbin",
+            "email": "165610712@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "OSS\\": "src/OSS/"
+        }
+    }
+}
